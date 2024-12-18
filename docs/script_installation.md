@@ -67,5 +67,4 @@ sudo systemctl stop rest-sync-service-node-express-js
 ### Завершення
 Сервіс запущено! Після запуску сервера ви можете отримати доступ до автоматичної документації API за наступними адресами:
 
-- Swagger UI: http://[адреса серверу]:8000/docs
-- ReDoc: http://[адреса серверу]:8000/redoc
+- Swagger UI: http://[адреса серверу]:3000/api-docs
